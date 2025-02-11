@@ -32,18 +32,17 @@ With Helion, you get structured backend logic, seamless authentication, backgrou
 
 ## Features
 
-- Built in RBA
-- Built in Auth 
-- Built in dashboard
-- Queues
-- Jobs
-- Events
-- Websockets
-
-
+- Coming Soon
+- 
 ## Roadmap
 
-- Coming soon
+- Tasks
+- queues
+- jobs
+- events
+- websockets
+- auth built in
+
 ## FAQ
 Coming Soon
 
